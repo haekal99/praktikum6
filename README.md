@@ -22,3 +22,6 @@ Module • Modul merupakan bagian dari program yang berisi fungsi-fungsi yang di
 
 # Hasil output
 
+![2](https://user-images.githubusercontent.com/56957271/71541404-f3290980-298a-11ea-8f6a-67a8bc207359.JPG)
+
+![3](https://user-images.githubusercontent.com/56957271/71541410-03d97f80-298b-11ea-8c2c-72b02c1d75a9.JPG)
